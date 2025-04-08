@@ -1,11 +1,11 @@
 # TDScope - Legacy Repository
 ## Introduction
-A somatic structural variation caller based on long-read technology
+### A somatic structural variation caller based on long-read technology
 The TDScope algorithm utilizes full-length read sequence information within the candidate somatic SV interval. It optimizes local graph genomes through sPOA graph and sequence mixture models to detect somatic SV events. This strategy effectively reduces the impact of alignment errors in long-read sequences and demonstrates superior performance in resolving low-complexity sequences (including low-complexity and tandem repeat sequences) and highly heterogeneous local genomic information.
 Notice: This repository has been archived. The new version of the project has been renamed and moved to a new repository.
 The new version of the project, now supporting all somatic structural variations (SVs), is available at the following repository:
-New Repository: Goatofmountain/SVScope
-Please visit the new repository for the latest updates, documentation, and code.
+- New Repository: Goatofmountain/SVScope
+- Please visit the new repository for the latest updates, documentation, and code.
 ---
 # Legacy Information
 ## Features
